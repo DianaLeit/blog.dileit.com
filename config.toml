@@ -2,3 +2,7 @@ baseURL = "http://blog.dileit.com/"
 languageCode = "en-us"
 title = "Diana's blog about QA"
 theme = "hugo-theme-stack"
+
+[Params.Sidebar.avatar]
+# enable = false
+src = "avatar.jpg"
