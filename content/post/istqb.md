@@ -2,11 +2,11 @@
 title: "How to pass ISTQB Foundation without paying $1,842.39 for training"
 ---
 
-It could be a very short post where I say just write a conspectus and watch this channel, but I have an additional variable that is supposed to have place according to ISTQB recommendations but not so actual for market reality: I don't have a technical/IT background. I wasn't currently working and didn't have an understanding of processes. Also understanding abstract, theoretical topics is hard for me personally. I'm more a practical/applied person, I will remember something better by doing/solving tasks that make me proficient at applied sciences like math and physics but absolutely stupid with humanitarian subjects like philosophy and economics. Especially, when there are a lot of boring formal words and dry numbers. Especially, when my partner working in IT says that this is quite far from reality (sounds unmotivational).
+It could be a very short post where I say just write notes and watch this channel, but I have an additional variable that is supposed to have place according to ISTQB recommendations but not so actual for market reality: I don't have a technical/IT background. I wasn't currently working and didn't have an understanding of processes. Also understanding abstract, theoretical topics is hard for me personally. I'm more a practical/applied person, I will remember something better by doing/solving tasks that make me proficient at applied sciences like math and physics but absolutely stupid with humanitarian subjects like philosophy and economics. Especially, when there are a lot of boring formal words and dry numbers. Especially, when my partner working in IT says that this theory is quite far from reality (sounds unmotivational).
 
 So let's begin!
 
-My learning plan consisted of watching YouTube "course", making conspectus of the syllabus, and watching the same course again. Why? I will explain.
+My learning plan consisted of watching YouTube "course", make notes from a syllabus, and watching the same course again. Why? I will explain.
 
 My goal was to **understand** the material, not just memorize it (otherwise what's the point?). Passing the exam with a high score would be a pleasant bonus.
 
@@ -66,12 +66,14 @@ Use neuroscience:
 
 ## During exam
 
-By solving samples I developed a strategy. I learned to read questions fast and see the main points. And decided to leave questions for later if I see that they are extensive or complicated (it's just 1 point per question).
+By solving samples I developed a strategy. I learned to read questions fast and see the main points. And decided to leave questions for later if I see that they are extensive or complicated (it's just 1 point per question, but you can miss 2-3 questions if stuck on a big one).
 
-I remember one question where it was a decision table, and I was so confused. Usually, you have true/false conditions there, but there was not so straight condition in one of the test cases. It was something like "in process". And it was hard to understand how it is considered to be, is it true, is it false? Because it really depends, what if the system just froze? It's not a "true" then. Some questions are needed to have an understanding of different systems, like for example credit/debit cards. (I don't have a credit card, so I didn't know that you don't need a pin there!) What if you don't have such an understanding? Here good strategy was to eliminate answers that are not suitable instead of looking for the correct one.
+I remember one question with a decision table, and I was so confused. Usually, you have true/false conditions there, but there was not so straight condition in one of the test cases. It was something like "in process". And it was hard to understand how it is considered to be, is it true, is it false? Because it really depends, what if the system just thinking and you will receive an error? It's not a "true" then.
+Some questions are needed to have an understanding of different systems, like for example credit/debit cards (I don't have a credit card, so I didn't know that you don't need a pin there!). 
+What if you don't have such an understanding? Here a good strategy was to eliminate answers that are not suitable instead of looking for the correct one.
 
 TIP: memorize test estimation techniques for agile and sequential models. I haven't paid attention to that and was caught!
 
-I would lie if I say that I was calm as a monk. No. I was a live representation of the song "You Spin Me Round" - so many circles I've made around calmly sitting men. Maybe because of that, I was put in exam place first :D Nevertheless, I passed with a 90% score.
+I would lie if I say that I was calm as a monk. No. I was a live representation of the song "You Spin Me Round" - so many circles I've made around calmly sitting men. Maybe because of that, I was put in exam place first :D Nevertheless, I've passed with a 90% score.
 
 Good luck!
