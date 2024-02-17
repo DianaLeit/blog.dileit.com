@@ -18,7 +18,7 @@ In this step, I gained an understanding of the exam structure. What kinds of que
 
 ## Syllabus processing
 
-Why I did do that?
+Why I did that?
 
 I believe in neuroscience and actively use the applied/behavioral part of it. Writing down, sometimes with your own words, helps you to understand topics that are hard to understand if you just read them. It helps to process information better, to focus on it.
 
@@ -69,7 +69,7 @@ Use neuroscience:
 By solving samples I developed a strategy. I learned to read questions fast and see the main points. And decided to leave questions for later if I see that they are extensive or complicated (it's just 1 point per question, but you can miss 2-3 questions if stuck on a big one).
 
 I remember one question with a decision table, and I was so confused. Usually, you have true/false conditions there, but there was not so straight condition in one of the test cases. It was something like "in process". And it was hard to understand how it is considered to be, is it true, is it false? Because it really depends, what if the system just thinking and you will receive an error? It's not a "true" then.
-Some questions are needed to have an understanding of different systems, like for example credit/debit cards (I don't have a credit card, so I didn't know that you don't need a pin there!). 
+Some questions are needed to have an understanding of different systems, like for example credit/debit cards (I don't have a credit card, so I didn't know that you don't need a pin there!).
 What if you don't have such an understanding? Here a good strategy was to eliminate answers that are not suitable instead of looking for the correct one.
 
 TIP: memorize test estimation techniques for agile and sequential models. I haven't paid attention to that and was caught!
